@@ -1,28 +1,4 @@
-<div align="center">
-  <a href="https://superchargejs.com">
-    <img width="471" style="max-width:100%;" src="https://superchargejs.com/images/supercharge-text.svg" />
-  </a>
-  <br/>
-  <br/>
-  <p>
-    <h3>Redis in GitHub Actions</h3>
-  </p>
-  <p>
-    Start a Redis server in your GitHub Actions.
-  </p>
-  <br/>
-  <p>
-    <a href="#usage"><strong>Usage</strong></a>
-  </p>
-  <br/>
-  <br/>
-  <p>
-    <em>Follow <a href="http://twitter.com/marcuspoehls">@marcuspoehls</a> and <a href="http://twitter.com/superchargejs">@superchargejs</a> for updates!</em>
-  </p>
-</div>
-
----
-
+![Maintained by Hassan](https://img.shields.io/badge/maintained%20by-Hassan.com-blue)
 
 ## Introduction
 This GitHub Action starts a Redis server on the default port `6379`.
